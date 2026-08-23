@@ -63,7 +63,7 @@ header img {
 }
 .about-image img {
     width: 100%;
-  max-width: 400px;
+  max-width: 500px;
   height: auto;
 }
  
@@ -116,6 +116,7 @@ header img {
   background-color: #aa61f2;
    position:relative;
   min-height: 419px;
+  padding:100px
 }
 
 .contact h1 {
