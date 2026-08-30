@@ -114,7 +114,7 @@ header img {
 }
 .contact {
   background-color: #aa61f2;
-   position:relative;
+   position: relative;
   min-height: 419px;
   padding:100px
 }
@@ -133,7 +133,6 @@ header img {
 
 .contact form {
   width: 500px;
-  margin: 25px auto 0;
 }
 
 .form-group {
