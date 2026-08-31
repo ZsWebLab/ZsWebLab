@@ -134,8 +134,8 @@ header img {
 .contact form {
   width: 500px;
   margin-left: auto;
-  margin-right:10px;
-  padding-top:10px
+  margin-right:0px;
+  padding-top:20px
 }
 
 .form-group {
@@ -146,7 +146,7 @@ header img {
   display: block;
   text-align: left;
   margin-bottom: 5px;
-  margin-left:62px
+  margin-left:55px
 }
 .form-name-row {
   display: flex;
