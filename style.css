@@ -133,7 +133,8 @@ header img {
 
 .contact form {
   width: 500px;
-  padding-right: 40px
+  padding-right: 40px;
+  margin-left:50px
 }
 
 .form-group {
